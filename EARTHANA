@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Official website of NASIR THE EARTHLING, artist, visionary, and creator. Explore art, learn more, and get in touch.">
+    <title>NASIR THE EARTHLING</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>NASIR THE EARTHLING</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h2>Welcome to the World of NASIR THE EARTHLING</h2>
+            <p>An artist bringing the universe to Earth through creativity.</p>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <h2>About NASIR THE EARTHLING</h2>
+        <p>
+            NASIR THE EARTHLING is an artist and visionary, known for his bold expressions and cosmic inspirations. His works challenge perceptions and bring forth a fusion of earthly and extraterrestrial elements.
+        </p>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="gallery-section">
+        <h2>Gallery</h2>
+        <div class="gallery-container">
+            <img src="art1.jpg" alt="Artwork 1">
+            <img src="art2.jpg" alt="Artwork 2">
+            <img src="art3.jpg" alt="Artwork 3">
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <h2>Contact NASIR THE EARTHLING</h2>
+        <p>Interested in collaborating or purchasing artwork? Reach out via the channels below:</p>
+        <ul>
+            <li>Email: <a href="mailto:nasir@earthlingart.com">nasir@earthlingart.com</a></li>
+            <li>Instagram: <a href="https://instagram.com/nasirtheearthling" target="_blank">@nasirtheearthling</a></li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2024 NASIR THE EARTHLING. All rights reserved.</p>
+    </footer>
+</body>
+</html>
